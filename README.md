@@ -25,20 +25,3 @@
     <p>Para probar el proyecto, deben descargar el Back, abrirelo y correrlo con IntelliJ</p>
     <p>En application.properties deben configurar su Database: host/schema, username, password</p>
 </div>
-
-<style>
-    .container{
-        width: 80vw;
-        margin: 0 auto;
-        margin-top: 1rem;
-        padding: 0 2rem;
-    }
-
-    .header{
-        border: 1px solid black;
-    }
-
-    .header p{
-        font-size: 1.2rem;
-    }
-</style>
