@@ -1,10 +1,23 @@
-<div class="container header">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<div>
     <h2>CaC Spring Boot - Dec 2022</h2>
     <p><strong>Tutor: </strong>Cristian Gadea</p>
     <p><strong>Student: </strong>Rigotti Juan Pablo</p>
 </div>
 
-<div class="container body">
+<div>
     <p>En este repositorio encontrarán 2 carpetas</p>
     <ul>
         <li>BackEnd</li>
